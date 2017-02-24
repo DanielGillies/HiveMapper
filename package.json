@@ -1,0 +1,33 @@
+{
+  "name": "ui-engineer-coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "transpile": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hivemapper/ui-engineer-coding-challenge.git"
+  },
+  "author": "Dane Pieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hivemapper/ui-engineer-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/Hivemapper/ui-engineer-coding-challenge#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "three": "^0.84.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-register": "^6.11.6",
+    "babelify": "^7.3.0",
+    "browserify": "^14.0.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
